@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrTechDaddy, aka Joseph Austin
 - 👀 I’m interested in: Alternative Music Notations; Mathematical Foundations; 
-- 🌱 I’m currently learning Progressive Web Apps (PWA)
+- 🌱 I’m currently exploring MuseScore
 - 💞️ I’m looking to collaborate on Alternative Music Notation Editor
 - 📫 How to reach me: DrTechDaddy@gmail.com
 
